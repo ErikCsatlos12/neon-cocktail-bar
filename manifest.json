@@ -1,11 +1,11 @@
 {
-    "name": "mit_igyunk",
-    "short_name": "mit_igyunk",
+    "name": "Neon Bar – Cocktail Recommender",
+    "short_name": "Neon Bar",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#09090E",
+    "theme_color": "#09090E",
+    "description": "Cyberpunk cocktail recommender: pick your ingredients and find cocktails to mix.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
